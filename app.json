@@ -1,0 +1,6 @@
+{
+  "name": "Trip Feels",
+  "description": "Starter application of Angular2 with Express",
+  "repository": "https://github.com/lakartoza/TripFeels",
+  "keywords": ["angular2", "express", "node"]
+}

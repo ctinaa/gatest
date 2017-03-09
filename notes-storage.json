@@ -1,0 +1,32 @@
+{
+    {
+        "id": 1,
+        "value": "Hiking",
+        "color": "yellow",
+        "background-image": "https://static.vecteezy.com/system/resources/previews/000/093/696/original/vector-yellow-abstract-background.jpg"
+    },
+    {
+        "id": 2,
+        "value": "Hiking",
+        "color": "yellow",
+        "background-image": "https://static.vecteezy.com/system/resources/previews/000/093/696/original/vector-yellow-abstract-background.jpg"        
+    },
+    {
+        "id": 3,
+        "value": "Hiking",
+        "color": "yellow",
+        "background-image": "https://static.vecteezy.com/system/resources/previews/000/093/696/original/vector-yellow-abstract-background.jpg"        
+    },
+    {
+        "id": 4,
+        "value": "Hiking",
+        "color": "yellow",
+        "background-image": "https://static.vecteezy.com/system/resources/previews/000/093/696/original/vector-yellow-abstract-background.jpg"
+    },
+    {
+        "id": 5,
+        "value": "Hiking",
+        "color": "yellow",
+        "background-image": "https://static.vecteezy.com/system/resources/previews/000/093/696/original/vector-yellow-abstract-background.jpg"        "background-image": 
+    }
+}
